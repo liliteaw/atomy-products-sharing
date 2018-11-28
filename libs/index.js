@@ -2,8 +2,8 @@
  * Docsify config
  */
 gitalkConfig = {
-  clientID: 'e09a2c6d27d93cbdee8c',
-  clientSecret: '937463f69ac7c36097078af7a01c83bbae246337',
+  clientID: '335eaf684683c5ae79bf',
+  clientSecret: 'c9cb4887c9d73ce79a0949863aa7ca1bc3a852c6',
   repo: 'atomy-products-sharing',
   owner: 'liliteaw',
   admin: ['liliteaw'],
@@ -11,7 +11,7 @@ gitalkConfig = {
 },
 window.$docsify = {
   name: 'Atomy Products Sharing',
-  repo: 'https://liliteaw.github.io/atomy-products-sharing/#/',
+  repo: 'https://',
   auto2top: true,
   loadSidebar: true,
   subMaxLevel: 2,
