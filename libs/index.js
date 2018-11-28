@@ -11,7 +11,7 @@ gitalkConfig = {
 },
 window.$docsify = {
   name: 'Atomy Products Sharing',
-  repo: 'https://',
+  repo: 'https://liliteaw.github.io/atomy-products-sharing/#/',
   auto2top: true,
   loadSidebar: true,
   subMaxLevel: 2,
