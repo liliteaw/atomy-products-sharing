@@ -30,7 +30,7 @@
 
 <p align="left">
     <h3 align="left">ONEXOX-simcard-sharing</h3>
-    <a href="https://" target="_blank">
+    <a href="https://liliteaw.github.io/onexox-simcard-sharing/#/" target="_blank">
         <img src="https://i.imgur.com/n1IE4YI.png" width="30%">
     </a>
        
