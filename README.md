@@ -1,7 +1,7 @@
 
 <p align="center">
     <a href="https://liliteaw.github.io/atomy-products-sharing/#/">
-        <img src="https://i.imgur.com/PIsY6HH.png" width="60%">
+        <img src="https://i.imgur.com/W8S2x5F.png" width="60%">
     </a>
     <h1 align="center">Atomy-Product-Sharing</h1>
   
