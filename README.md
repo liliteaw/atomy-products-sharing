@@ -1,20 +1,20 @@
 
 <p align="center">
     <a href="https://liliteaw.github.io/atomy-products-sharing/#/">
-        <img src="https://i.imgur.com/W8S2x5F.png" width="60%">
+        <img src="https://i.imgur.com/W8S2x5F.png" width="70%">
     </a>
     <h1 align="center">Atomy-Product-Sharing</h1>
-</p>
 
-❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄
+     <!-- Go to www.addthis.com/dashboard to customize your tools --> 
+    <div class="addthis_inline_share_toolbox_y0ou"></div>
 
 
-<center>
+✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳
+    <center>
     <h4>😀 Change your life today. Don't gamble on the future, act now, without delay.😏</h4>
 </center>
-
-
-❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄
+✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳
+</p>
 
 
 >#### Lili Other Sharing
@@ -64,12 +64,7 @@
 
 </div>
 
->#### Share to
 
-<div style="background-color:#F7F9F9;color:#ABB2B9;padding:20px;">
- <!-- Go to www.addthis.com/dashboard to customize your tools --> 
-    <div class="addthis_inline_share_toolbox_y0ou"></div>
-</div>
 
 
 >#### Follow Me
